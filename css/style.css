@@ -31,11 +31,24 @@ body {
 
 /* Sections */
 
-body > header, body > section, body > footer {
+body > header {
+  float: left;
+  width: 25%;
+  clear: both;
+}
+
+body > section {
+  float: left;
+  width: 75%%;
+  clear: both;
+}
+
+body > footer {
   float: left;
   width: 100%;
   clear: both;
 }
+
 
 /* Header */
 
