@@ -5,8 +5,6 @@ url: http://apievangelist.com/2013/10/01/public-private-sector/
 image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/public-private-sector-puzzle.png
 ---
 
-# Public / Private Sector
-
 <img src="https://s3.amazonaws.com/kinlane-productions/public-private-sector/public-private-sector-puzzle.png" align="right" width="325" />
 I am two months into my Presidential Innovation Fellowship. While I'm enjoying my dedicated time (being paid) hacking on government data, making public data assets, designing APIs and building tools, I have hit a wall.
 
