@@ -6,12 +6,28 @@
   "apis": [],
   "include": [
     {
-      "name": "API Evangelist",
-      "url": "http://apievangelist.com/api.json"
+      "name": "Dev Hub",
+      "url": "http://kinlane.github.io/dev-hub//api.json"
     },
     {
-      "type": "API Commons",
-      "url": "http://apicommons.org/api.json"
+      "name": "VA Developer",
+      "url": "http://va-data.github.io/va-developer/api.json"
+    },
+    {
+      "name": "FDA Recalls",
+      "url": "http://fda-data.github.io/fda-recalls/api.json"
+    },
+    {
+      "name": "Court Listener",
+      "url": "http://kinlane.github.io/court-listener-api/api.json"
+    },
+    {
+      "name": "FAFSA API",
+      "url": "http://ed-data.github.io/fafsa-api/api.json"
+    },
+    {
+      "name": "API Ongithub",
+      "url": "http://api.ongithub.com/api.json"
     }
   ],
   "maintainer": [
