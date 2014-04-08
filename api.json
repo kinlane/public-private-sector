@@ -1,0 +1,33 @@
+{
+  "name": "Public Private Sector",
+  "description": "This is an inventory of APIs available as part of the Public / Private Sector network.",
+  "image": "https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png",
+  "url": "http://developer.apievangelist.com",
+  "apis": [],
+  "include": [
+    {
+      "name": "API Evangelist",
+      "url": "http://apievangelist.com/api.json"
+    },
+    {
+      "type": "API Commons",
+      "url": "http://apicommons.org/api.json"
+    }
+  ],
+  "maintainer": [
+    {
+      "type": "Name",
+      "url": "Kin Lane"
+    },
+    {
+      "type": "email",
+      "url": "info@apievangelist.com"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/kinlane/"
+    }
+  ],
+  "tags": "government, civic, open data, api, application programming interface",
+  "modified": "04/07/2014"
+}
