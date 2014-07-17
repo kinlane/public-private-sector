@@ -6,7 +6,7 @@
   "created": "04/07/2014",
   "modified": "07/09/2014",
   "url": "http://publicprivatesector.org",
-  "SpecificationVersion": "0.14",  
+  "specificationversion": "0.14",  
   "apis": [],
   "include": [
     {
@@ -32,6 +32,14 @@
     {
       "name": "API Ongithub",
       "url": "http://api.ongithub.com/api.json"
+    },
+    {
+      "name": "www.usa.gov",
+      "url": "http://www.usa.gov.apievangelist.com/apis.json"
+    },
+    {
+      "name": "explore.data.gov",
+      "url": "http://explore.data.gov.apievangelist.com/apis.json"
     }
   ],
   "maintainer": [
